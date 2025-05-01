@@ -29,9 +29,9 @@ that fits into a D2MG 2 module width DIN rail enclosure.
 More information about the hardware can be found in the
 **[hardware](hardware/README.md)** folder.
 
-<img src="images/meter-board_top.png" alt="Meter Board PCB Top Side">
+<img src="images/meter_board_top.png" alt="Meter Board PCB Top Side">
 
-<img src="images/meter-board_bottom.png" alt="Meter Board PCB Bottom Side">
+<img src="images/meter_board_bottom.png" alt="Meter Board PCB Bottom Side">
 
 ## ESPHome
 <img src="https://esphome.io/_static/made-for-esphome-black-on-white.png" align="left" alt="Made for ESPHome logo" width="200">
