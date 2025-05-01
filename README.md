@@ -18,9 +18,8 @@ information.
 
 The project is inspired from: https://github.com/CircuitSetup/Expandable-6-Channel-ESP32-Energy-Meter
 
-> [!NOTE]
-> If you are looking for the easiest way to **start using your display
-> under Home Assistant:** ***[Home Assistant Quick Start Guide](HomeAssistant.md)***
+If you are looking for the easiest way to **start using your display
+under Home Assistant:** ***[Home Assistant Quick Start Guide](HomeAssistant.md)***
 
 > [!CAUTION]
 > The circuit is not isolated from the mains, so it is not safe to tuch any
