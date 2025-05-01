@@ -20,15 +20,18 @@ configuration file.
 
 ### ESPHome Dashboard
 
-To import the configuration to your ESPHome Dashboard, use the [power-meter.yaml](metro-display.yaml)
+To import the configuration to your ESPHome Dashboard, use the [power-meter.yaml](power-meter.yaml)
 file.
 
 By default this file imports the core configuration from GitHub dynamically.
 
-### Core functionality
+### Core functions
 
-Both of these config files import the [power-meter-core.yaml](metro-display-core.yaml)
-configuration file which contains the core functionality for the device.
+Both of these config files import the following files which contains specific
+functionality for the device:
+- [power-meter-metering.yaml](power-meter-metering.yaml)
+- [power-meter-display.yaml](power-meter-display.yaml)
+
 
 ## Firmware update
 
