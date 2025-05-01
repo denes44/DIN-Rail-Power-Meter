@@ -23,11 +23,15 @@ under Home Assistant:** ***[Home Assistant Quick Start Guide](HomeAssistant.md)*
 
 ## Hardware
 
-The hardware uses the PCBs, one for the measurement and one for power,
+The hardware uses two PCBs, one for the measurement and one for power,
 that fits into a D2MG 2 module width DIN rail enclosure.
 
 More information about the hardware can be found in the
 **[hardware](hardware/README.md)** folder.
+
+<img src="images/meter-board_top.png" alt="Meter Board PCB Top Side">
+
+<img src="images/meter-board_bottom.png" alt="Meter Board PCB Bottom Side">
 
 ## ESPHome
 <img src="https://esphome.io/_static/made-for-esphome-black-on-white.png" align="left" alt="Made for ESPHome logo" width="200">
