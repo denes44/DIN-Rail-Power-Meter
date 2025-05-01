@@ -43,13 +43,13 @@ For **3-phase operation** you need to connect all 3 phases. And you can measure
 
 ### Voltage measurement
 
-[!CAUTION]
-The voltage is measured by a voltage divider network, so the circuit is not
-isolated from the mains, so it is not safe to tuch any part of the board
-during use, nor connecting the device with other electrical interfaces
-without proper isolation!
-The AC neutral is connected to DC ground, so treat the circuit as you would
-with any live circuit!
+> [!CAUTION]
+> The voltage is measured by a voltage divider network, so the circuit is not
+> isolated from the mains, so it is not safe to tuch any part of the board
+> during use, nor connecting the device with other electrical interfaces
+> without proper isolation!
+> The AC neutral is connected to DC ground, so treat the circuit as you would
+> with any live circuit!
 
 Phase voltage is sampled over a resistor divider network with
 recommended ratio of 7 x 240 kΩ : 1 kΩ.

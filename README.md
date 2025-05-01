@@ -18,16 +18,16 @@ information.
 
 The project is inspired from: https://github.com/CircuitSetup/Expandable-6-Channel-ESP32-Energy-Meter
 
-[!NOTE]
-If you are looking for the easiest way to **start using your display
-under Home Assistant:** ***[Home Assistant Quick Start Guide](HomeAssistant.md)***
+> [!NOTE]
+> If you are looking for the easiest way to **start using your display
+> under Home Assistant:** ***[Home Assistant Quick Start Guide](HomeAssistant.md)***
 
-[!CAUTION]
-The circuit is not isolated from the mains, so it is not safe to tuch any part
-of the board during use, nor connecting the device with other electrical
-interfaces without proper isolation!
-The AC neutral is connected to DC ground, so treat the circuit as you would
-with any live circuit!
+> [!CAUTION]
+> The circuit is not isolated from the mains, so it is not safe to tuch any
+> part of the board during use, nor connecting the device with
+> other electrical interfaces without proper isolation!
+> The AC neutral is connected to DC ground, so treat the circuit as you would
+> with any live circuit!
 
 ## Hardware
 
