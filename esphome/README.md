@@ -15,7 +15,7 @@ to provision your device.
 
 ### Factory
 
-The factory firmware uses the [power-meter.factory.yaml](metro-display.factory.yaml)
+The factory firmware uses the [power-meter.factory.yaml](power-meter.factory.yaml)
 configuration file.
 
 ### ESPHome Dashboard
