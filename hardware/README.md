@@ -71,12 +71,10 @@ The 0.96" OLED display is controlled via I2C.
 There is a built-in RGB status LED on the ESP32-S3's PCB,
 although it's not visible from outside the enclosure.
 
-
 <img src="https://esphome.io/_static/made-for-esphome-black-on-white.png" align="left" alt="Made for ESPHome logo" width="150">
 
 The default firmware is ESPHome, you can find the configuration to it in the
 [esphome](../esphome/README.md) folder.
-
 
 ### GPIO Pinout
 
@@ -97,9 +95,9 @@ The default firmware is ESPHome, you can find the configuration to it in the
 
 ### Status LED
 
-| Color           | State |
-| --------------- | ----- |
-| Red Blinking    | Errored state |
-| Red             | Powered, not connected to WiFi |
-| Blue            | Connected to WiFi |
-| Green           | Native API connected |
+| Color        | State                          |
+| ------------ | ------------------------------ |
+| Red Blinking | Errored state                  |
+| Red          | Powered, not connected to WiFi |
+| Blue         | Connected to WiFi              |
+| Green        | Native API connected           |

@@ -16,7 +16,7 @@ It can also be used on a 1-phase system as well.
 On the front there is a small OLED display that can display the metering
 information.
 
-The project is inspired from: https://github.com/CircuitSetup/Expandable-6-Channel-ESP32-Energy-Meter
+The project is inspired from: <https://github.com/CircuitSetup/Expandable-6-Channel-ESP32-Energy-Meter>
 
 If you are looking for the easiest way to **start using your display
 under Home Assistant:** ***[Home Assistant Quick Start Guide](HomeAssistant.md)***
@@ -41,6 +41,7 @@ More information about the hardware can be found in the
 <img src="images/meter_board_bottom.png" alt="Meter Board PCB Bottom Side">
 
 ## ESPHome
+
 <img src="https://esphome.io/_static/made-for-esphome-black-on-white.png" align="left" alt="Made for ESPHome logo" width="200">
 
 The meter uses an ESP32-S3 controller and ESPHome as it's firmware.

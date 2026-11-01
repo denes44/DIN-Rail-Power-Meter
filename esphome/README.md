@@ -29,9 +29,9 @@ By default this file imports the core configuration from GitHub dynamically.
 
 Both of these config files import the following files which contains specific
 functionality for the device:
+
 - [power-meter-metering.yaml](power-meter-metering.yaml)
 - [power-meter-display.yaml](power-meter-display.yaml)
-
 
 ## Firmware update
 
